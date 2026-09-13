@@ -20,9 +20,9 @@ Mzuzu City and the land immediately surrounding it, in the Northern Region of Ma
 
 | Dataset | Purpose | Source |
 | --- | --- | --- |
-|   | Sentinel-2 satellite images (2020) Used to classify land cover at the start | USGS EarthExplorer |
+|   | landsat satellite images (2020) Used to classify land cover at the start | USGS EarthExplorer |
 |   | of the study period |   |
-|   | Sentinel-2 satellite images (2026) Used to classify land cover at the end of USGS EarthExplorer |   |
+|   | Landsat satellite images (2025) Used to classify land cover at the end of USGS EarthExplorer |   |
 |   | the study period, for comparison |   |
 | ESA WorldCover data | Used as a reference to check the ESA WorldCover |   |
 |   | accuracy of the land cover classification |   |
