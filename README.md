@@ -5,3 +5,4 @@ Built over twelve months with Geodev Lab Africa, cohort one, see project -brief.
 week 5 : set up python, VS Code and terminal.hello.py runs.
 week 6: set up the project with uv and added pandas.check.py prints the pandas version
 week 7: analyse.py reads wards.csv, convert each area and classifies each ward.
+week 8: inspect_data.py, working with soil pH values
